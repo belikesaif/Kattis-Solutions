@@ -1,7 +1,3 @@
-//
-// Created by Jonni on 6/21/2017.
-//
-
 #include <stdlib.h>
 
 struct point2D
